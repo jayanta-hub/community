@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512515369519",
+    "project_id": "immagrationhubimagility",
+    "storage_bucket": "immagrationhubimagility.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512515369519:android:46a405407142134a4db4da",
+        "android_client_info": {
+          "package_name": "com.ImmigrationHub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512515369519-oggs89qudpo1ef82bnbcmc4g24f2ipaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAJKBs5esE3z4uZlIy25Na1tqrCaWhMVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512515369519-oggs89qudpo1ef82bnbcmc4g24f2ipaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+export const DS160_FORM_EXEMPLAR=`https://travel.state.gov/content/dam/visas/PDF-other/DS-160-Example_11-19-2020.pdf`;
+export const PORTAL_PREVIEW=`https://ceac.state.gov/genniv/`;
+export const US_IMMIGRATION_FMJFEE=`https://www.fmjfee.com/i901fee/index.html`;
+export const PAYMENT_INSTRUCTIONS=`https://www.ice.gov/sevis/i901`;
+export const US_IMMIGRATION=`http://www.ice.gov/sevis/i901/index.htm`;
+export const US_IMMIGRATION_ENFORCEMENT_FMJFEE=`https://www.fmjfee.com/index.html`;
+export const US_EMBASSY=`http://www.usembassy.gov/`;
+export const STUDENT_F1_VISA=`https://shorelight.com/student-stories/student-visa-usa-f1/`;
+export const SEVIS_FEE=`https://internationaloffice.berkeley.edu/immigration/sevis-fee`;
+export const DS_160=`https://visaguide.world/us-visa/ds-160/`;
+export const BOIMETRICS_APPOINTMENT=`https://www.path2usa.com/fingerprinting-and-biometrics-for-us-visa`;
+export const F1_VISA_GUIDE=`https://studyabroad.shiksha.com/f1-visa-guide-applycontent51721`;
+export const F1_TO_H1B_CHANGE_OF_STATUS=`https://www.path2usa.com/f1-to-h1b-change-of-status`;
